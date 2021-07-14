@@ -1,9 +1,14 @@
-Expenses-flutter-app
+# **Expenses-flutter-app**
 
 A Flutter App with which you can track your daily Expenses. It shows a Real-Time Weekly Bar Graph of the tracked Expenses. You can also delete an added Expense.
 
 
-Getting Started
+## **Pre-requisites
+
+1. Fluter intl 0.17.0
+
+
+## **Getting Started**
 
 This project is a starting point for a Flutter application.
 
