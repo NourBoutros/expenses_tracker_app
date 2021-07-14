@@ -6,7 +6,7 @@ A Flutter App which you can track your daily Expenses. It shows a Real-Time Week
 
 ## **Pre-requisites**
 
-1. Fluter intl 0.17.0
+1. Flutter intl 0.17.0
 2. Flutter 2.2.3 
 3. Flutter Build Tools • Dart 2.13.4
 
@@ -26,9 +26,9 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ### **Features**
-1. Add new expenses with tile, amount and date with date piecker.
+1. Add new expenses with tile, amount and date with date picker.
 2. Show last seven day expenses with percentage bar.
-3. Delete expenses
+3. Delete expenses.
 
 ![Capture3](https://user-images.githubusercontent.com/42559342/125635138-39874988-2974-4dbf-b09c-235418da7abe.jpg)   
 
