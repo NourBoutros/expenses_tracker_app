@@ -2,7 +2,8 @@
 
 A Flutter App which you can track your daily Expenses. It shows a Real-Time Weekly Bar Graph of the tracked Expenses. You can also delete an added Expense.
 
-![Capture](https://user-images.githubusercontent.com/42559342/125634319-f1bccce4-3a03-4ef0-ab76-5218ac38ceed.jpg)
+![Capture1](https://user-images.githubusercontent.com/42559342/125677649-43a480e1-26cf-45d8-a060-1158cf2a0c35.PNG)
+
 
 ## **Pre-requisites**
 
@@ -30,11 +31,13 @@ samples, guidance on mobile development, and a full API reference.
 2. Show last seven day expenses with percentage bar.
 3. Delete expenses.
 
-![Capture3](https://user-images.githubusercontent.com/42559342/125635138-39874988-2974-4dbf-b09c-235418da7abe.jpg)   
+![expens4](https://user-images.githubusercontent.com/42559342/125678046-724dd4dd-509d-49b8-b1f0-92aba9460926.jpg)
 
-![Capture4](https://user-images.githubusercontent.com/42559342/125635224-6782dbb0-61d2-4d5e-a39a-cf997d10dbb0.jpg)
+![expens2](https://user-images.githubusercontent.com/42559342/125677987-16bf48ba-5cb3-4e95-bd66-11a4a195a701.jpg)
 
-![Capture2](https://user-images.githubusercontent.com/42559342/125635441-abfbdd6c-8f33-4146-8fc9-0d87a15a4a08.jpg)
+![expens3](https://user-images.githubusercontent.com/42559342/125678036-f14cdf4b-4ce3-4b56-9938-0d639fa30133.jpg)
+
+
 
 
 
