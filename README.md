@@ -32,7 +32,6 @@ samples, guidance on mobile development, and a full API reference.
 3. Delete expenses.
 
 ![expens4](https://user-images.githubusercontent.com/42559342/125678046-724dd4dd-509d-49b8-b1f0-92aba9460926.jpg)
-
 ![expens2](https://user-images.githubusercontent.com/42559342/125677987-16bf48ba-5cb3-4e95-bd66-11a4a195a701.jpg)
 
 ![expens3](https://user-images.githubusercontent.com/42559342/125678036-f14cdf4b-4ce3-4b56-9938-0d639fa30133.jpg)
